@@ -1,4 +1,4 @@
-# Image classifier
+# Image Classifier
 AI with Python Nanodegree program by Udacity and AWS.<br/>
 This project focuses on developing an image classification model using deep learning techniques. Based on visual features, the model is trained to classify flower images into predefined categories. The dataset ```https://www.kaggle.com/datasets/yousefmohamed20/oxford-102-flower-dataset```  is used for training consists of labeled images, and the project leverages PyTorch to handle data preprocessing, model training, and evaluation.
 
